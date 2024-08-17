@@ -1,0 +1,16 @@
+Page 1 : 
+Navbar : 
+- Logo 
+- Home
+- About
+- contact
+- category 
+- login/logout/ signup
+     -  	Carousal : 3 images with button
+     -     Product list : - grid 3x2
+    -     testimonials / Reviews grid/slideshow 1x3 (sale ad => redirect to sales page)
+     -     Footer : 
+	- about
+	- contact us
+	- address
+	- map
